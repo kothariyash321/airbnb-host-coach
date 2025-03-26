@@ -151,7 +151,6 @@ GPI = (0.25 * superhost_prob +
 | ![EDA2](images/cancellations_vs_revenue.png) | Cancellation Impact on Revenue |
 | ![GPI](images/gpi_clusters.png) | Growth Potential Index by Cluster |
 
-📁 _Place relevant images from `.ipynb` visual outputs in `/images/` folder and update links above._
 
 ---
 
